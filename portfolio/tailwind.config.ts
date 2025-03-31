@@ -23,9 +23,9 @@ const config: Config = {
         },
       },
       animation: {
-        infinite_scroll: "infinite_scroll 15s linear infinite",
-        slideIn: 'slideIn 0.7s ease-in-out forwards',
-        slideOut: 'slideOut 0.7s ease-in-out forwards',
+        infinite_scroll: "infinite_scroll 25s linear infinite",
+        slideIn: 'slideIn 2s ease-in-out forwards',
+        slideOut: 'slideOut 2s ease-in-out forwards',
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
