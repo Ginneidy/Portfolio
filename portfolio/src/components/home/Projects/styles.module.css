@@ -1,0 +1,9 @@
+.slider-container .slick-list {
+  display: flex !important;
+  justify-content: center;
+}
+
+.slider-container .slick-slide {
+  display: flex;
+  justify-content: center;
+}
