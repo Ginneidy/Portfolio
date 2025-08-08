@@ -4,6 +4,7 @@
 
 html {
     scroll-behavior: smooth;
+    color: #0D273D;
 }
 
 body {
@@ -38,3 +39,13 @@ section {
     width: max-content;
     flex-wrap: nowrap;
 }
+
+.slick-slider {
+    margin-inline: -30px; /* space between slides * (-1) */
+  }
+
+  .slick-slide {
+    >div { /* automatically generated 'div' by 'react-slick' */
+      margin-inline: 15px; /* space between slides / 2 */
+    }
+  }
